@@ -1,0 +1,49 @@
+body {
+    background: url(../images/fondolasaña.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 100%;
+    
+    
+}
+
+.caja {
+    position: relative;
+    top: 10px;
+    bottom: 0;
+    right: o;
+    left: 40%;
+    background: transparent;
+    width: 222.2px;
+} 
+
+.pcaja {
+    font-size: 50px;
+    width: 600px;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    bottom: 0;
+    right: o;
+    left: 25%;
+}
+
+.ulcaja {
+    font-size: 20px;
+    width: 130px;
+    height: 80px;
+    position: absolute;
+    top: -10px;
+    bottom: 40px;
+    right: 0px;
+    left: 0px;
+    padding: 0px 0px 0px 20px;
+    float: left;
+    }
+
+    button {
+        background: rgb(155, 85, 47);
+    }
+
+    
