@@ -8,12 +8,16 @@ body {
     
 }
 
-.caja {
+.caja-padre {
+    width: 270px;
+    height: 87px;
     position: relative;
-    top: 10px;
-    bottom: 0;
-    right: o;
-    left: 40%;
+    left: 38%;
+}
+
+.caja {
+    position: absolute;
+    margin: 0px 0px center;
     background: transparent;
     width: 222.2px;
 } 
@@ -26,24 +30,19 @@ body {
     top: 100px;
     bottom: 0;
     right: o;
-    left: 25%;
+    left: 26%;
 }
-
-.ulcaja {
-    font-size: 20px;
-    width: 130px;
-    height: 80px;
-    position: absolute;
-    top: -10px;
-    bottom: 40px;
-    right: 0px;
-    left: 0px;
-    padding: 0px 0px 0px 20px;
-    float: left;
-    }
 
     button {
         background: rgb(155, 85, 47);
     }
 
+.acaja {
+    width: 363px;
+    height: 21px;
+    position: absolute;
+    top: 60px;
+    
+    
+}
     
